@@ -1,19 +1,19 @@
 <h2 align="center">Hello👁<br>I'm Sinahalaya</h1>
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
-<h7 align="left">Moreover, I am the founder of the Queen Amdi whatsapp user bot project. <br>Queen Amdi Project 👸</h7>
+<h7 align="left">Moreover, I am the one of contributor of the Queen Amdi whatsapp user bot project. [A.N.Tech Member] <br>Queen Amdi Project 👸</h7>
 
 ##
 <p align="center">
-  <a href="https://github.com/BlackAmda/QueenAmdi">
-    <img src="https://komarev.com/ghpvc/?username=BlackAmda&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+  <a href="https://github.com/SinhalayaCreator">
+    <img src="https://komarev.com/ghpvc/?username=SinhalayaCreator&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi?tab=stars">
-    <img src="https://img.shields.io/github/stars/BlackAmda?color=ff69b4&label=Stars&style=plastic">
+  <a href="https://github.com/SinhalayaCreator?tab=stars">
+    <img src="https://img.shields.io/github/stars/SinhalayaCreator?color=ff69b4&label=Stars&style=plastic">
 
   </a>
-  <a href="https://github.com/BlackAmda?tab=followers">
-    <img src="https://img.shields.io/github/followers/BlackAmda?color=ff69b4&label=Followers&style=plastic">
+  <a href="https://github.com/SinhalayaCreator?tab=followers">
+    <img src="https://img.shields.io/github/followers/SinhalayaCreator?color=ff69b4&label=Followers&style=plastic">
 
   </a>
 </p>
@@ -23,15 +23,15 @@
 
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python**
 
-- 👨‍💻 All of my projects are available at > [My Git](https://github.com/BlackAmda/) <
+- 👨‍💻 All of my projects are available at > [My Git](https://github.com/SinhalayaCreator/) <
 
-- 📫 How to reach me > [Whatsapp](https://wa.me/94757405652) <
+- 📫 How to reach me > [Whatsapp](https://wa.me/) <
 
 - 💫 **I am only a beginner developer.. 🌆**
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/amda_niwasa_official/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="BlackAmda" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sinhalaya_official_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="BlackAmda" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Black_Amda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="BlackAmda" height="30" width="40" /></a>
 </p>
 
