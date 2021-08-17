@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at > [My Git](https://github.com/SinhalayaCreator/) <
 
-- 📫 How to reach me > [Whatsapp](https://wa.me/) <
+- 📫 How to reach me > [Whatsapp](https://wa.me/+94719077818) <
 
 - 💫 **I am only a beginner developer.. 🌆**
 
