@@ -1,4 +1,4 @@
-<h2 align="center">Hello👁<br>I'm Sinahalaya</h1>
+<h2 align="center">Hello👁<br>I'm Sinhalaya</h1>
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
 <h7 align="left">Moreover, I am the one of contributor of the Queen Amdi whatsapp user bot project. [A.N.Tech Member] <br>Queen Amdi Project 👸</h7>
 
