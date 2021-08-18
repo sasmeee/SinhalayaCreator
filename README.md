@@ -30,7 +30,7 @@
 - 💫 **I am only a beginner developer.. 🌆**
 
 <h3 align="left">My Blog:</h3>
-<a href="https://sinhalayaofficial.blogspot.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/GNOME_Web_logo--2018.svg/1200px-GNOME_Web_logo--2018.svg.png" alt="SinhalayaCreator" height="30" width="30" /></a>
+<a href="https://sinhalayaofficial.blogspot.com" target="blank"><img align="center" src="https://i.ibb.co/JHv2nCz/icons8-blogger-240.png" alt="SinhalayaCreator" height="40" width="40" /></a>
 <h3 align="left">Contact Me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/sinhalaya_official_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="SinhalayaCretor" height="30" width="40" /></a><a href="https://wa.me/+94719077818" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="SinhalayaCreator" height="30" width="40" </a>
