@@ -33,7 +33,7 @@
 <a href="https://sinhalayaofficial.blogspot.com" target="blank"><img align="center" src="https://i.ibb.co/JHv2nCz/icons8-blogger-240.png" alt="SinhalayaCreator" height="40" width="40" /></a>
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/sinhalaya_official_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="SinhalayaCretor" height="30" width="40" /></a><a href="https://wa.me/+94719077818" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="SinhalayaCreator" height="30" width="40" </a>
+<a href="https://www.instagram.com/sinhalaya_official_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="SinhalayaCretor" height="40" width="50" /></a><a href="https://wa.me/+94719077818" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="SinhalayaCreator" height="30" width="40" </a>
 
 
 </p>
