@@ -19,7 +19,7 @@
 </p>
 
 
-- 🔭 I’m currently contributing with Black Amda on [Queen Amdi Project](https://github.com/BlackAmda/QueenAmdi)
+- 🔭 I’m currently contributing with [Black Amda](https://github.com/BlackAmda) on [Queen Amdi Project](https://github.com/BlackAmda/QueenAmdi)
 
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python**
 
