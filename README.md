@@ -1,5 +1,5 @@
 <h2 align="center">Hello👁<br>I'm Sinhalaya</h1>
-<img align="center" alt="GIF" src="https://www.mboxdrive.com/lv_0_20210908205732.mp4" width="2000" hight="1000"/>
+
 <h4 align="center">I am a simple developer..</h3>
 <h7 align="left">Moreover, I am the one of contributor of the Queen Amdi whatsapp user bot project. [A.N.Tech Member] <br>Queen Amdi Project 👸</h7>
 
