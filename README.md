@@ -1,6 +1,6 @@
 <h2 align="center">Hello👁<br>I'm Sinhalaya</h1>
 
-<h4 align="center">I am a simple developer..</h3>
+![My card name](https://cardivo.vercel.app/api?name=Sinhɑlɑyɑ%20Creɑtor&description=Hi,%20Welcome%20to%20my%20profile❤️%20I%27m%20a%20simple%20developer...💢%5B%20Co%20Admin%20%5F%20Team%20Queen%20Amdi%20|%20A.N.%20Tech%20Crew%20Member%5D%&image=https://i.ibb.co/X23tGzn/20210908-202859.png&backgroundColor=%23ecf0f1&instagram=sinhalaya_official_&facebook=sinhalayaofficial&github=SinhalayaCreator&pattern=leaf&colorPattern=%23eaeaea)
 
 <h7 align="left">Moreover, I am the one of contributor of the Queen Amdi whatsapp user bot project. [A.N.Tech Member] <br>Queen Amdi Project 👸</h7>
 
