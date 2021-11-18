@@ -31,6 +31,8 @@
 
 - 💫 **I am only a beginner developer.. 🌆**
 
+[![Spotify](https://sinhalayacreator.vercel.app/api/spotify)](https://open.spotify.com/user/sinhalayapage3@gmail.com)
+
 <h3 align="left">My Blog:</h3>
 <a href="https://sinhalayaofficial.blogspot.com" target="blank"><img align="center" src="https://i.ibb.co/JHv2nCz/icons8-blogger-240.png" alt="SinhalayaCreator" height="40" width="40" /></a>
 <h3 align="left">Contact Me:</h3>
