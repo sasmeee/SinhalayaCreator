@@ -12,8 +12,6 @@
   </a>  
 </p>
 
----
-
 ### 👾 About Me
 
 - 🎲 Student..😎
@@ -24,7 +22,6 @@
 - 💫 I am only a beginner developer.. 🌆
 
 - 🌿 From **Sri Lanka 🇱🇰**
-<br>
 
 ---
 
