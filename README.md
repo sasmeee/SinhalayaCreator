@@ -33,7 +33,7 @@
 
 <h3 align="left">Spotify Player</h3>
 
-[![Spotify](https://sinhalayacreator.vercel.app/api/spotify)](https://open.spotify.com/user/mcc9j2tlkeqr0n249vjsmv95h)
+[![Spotify](https://black-amda.vercel.app/api/spotify)](https://open.spotify.com/user/byk2qmulgj77v7sjv55pl0jjy)
 
 <h3 align="left">My Blog:</h3>
 <a href="https://sinhalayaofficial.blogspot.com" target="blank"><img align="center" src="https://i.ibb.co/JHv2nCz/icons8-blogger-240.png" alt="SinhalayaCreator" height="40" width="40" /></a>
