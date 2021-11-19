@@ -12,6 +12,7 @@
   </a>  
 </p>
 
+---
 
 ### 👾 About Me
 
@@ -24,6 +25,7 @@
 
 - 🌿 From **Sri Lanka 🇱🇰**
 <br>
+
 ---
 
 ### 🔭 I’m currently working on , 
