@@ -31,7 +31,7 @@
 
 - 💫 **I am only a beginner developer.. 🌆**
 
-## Spotify Player
+<h3 align="left">Spotify Player</h3>
 
 [![Spotify](https://sinhalayacreator.vercel.app/api/spotify)](https://open.spotify.com/user/mcc9j2tlkeqr0n249vjsmv95h)
 
