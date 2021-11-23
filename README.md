@@ -1,4 +1,4 @@
-<img src="sinhalaya.svg"></img>
+<img src="svg/sinhalaya.svg"></img>
 
 <p align="center">
   <a href="https://github.com/SinhalayaCreator">
