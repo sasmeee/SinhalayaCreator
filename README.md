@@ -15,7 +15,7 @@
 ### 👾 About Me
 
 - 🎲 Student..😎
-- 💎 Co Admin - Team Queen Amdi | Member of [A.N.Tech Crew](https://github.com/orgs/AN-Tech-Crew)
+- 💎 Co Admin - Team Queen Amdi | [A.N.Tech Crew](https://github.com/orgs/AN-Tech-Crew)
 
 - 🌱 I’m currently learning **HTML, CSS, Node.js, Python, Java**
 
